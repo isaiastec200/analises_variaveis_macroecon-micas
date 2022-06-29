@@ -1,0 +1,29 @@
+uf,uf_desc,região,regiao_desc
+11,Rondônia,1,Norte
+12,Acre,1,Norte
+13,Amazonas,1,Norte
+14,Roraima,1,Norte
+15,Pará,1,Norte
+16,Amapá,1,Norte
+17,Tocantins,1,Norte
+21,Maranhão,2,Nordeste
+22,Piauí,2,Nordeste
+23,Ceará,2,Nordeste
+24,Rio Grande do Norte,2,Nordeste
+25,Paraíba,2,Nordeste
+26,Pernambuco,2,Nordeste
+27,Alagoas,2,Nordeste
+28,Sergipe,2,Nordeste
+29,Bahia,2,Nordeste
+31,Minas gerais,3,Sudeste
+32,Espírito Santo,3,Sudeste
+33,Rio de Janeiro,3,Sudeste
+35,São Paulo,3,Sudeste
+41,Paraná,4,Sul
+42,Santa Catarina,4,Sul
+43,Rio Grande do Sul,4,Sul
+50,Mato Grosso do Sul,5,Centro-Oeste
+51,Mato Grosso,5,Centro-Oeste
+52,Goiás,5,Centro-Oeste
+53,Distrito Federal,5,Centro-Oeste
+99,Não identificado,9,Não identificado
